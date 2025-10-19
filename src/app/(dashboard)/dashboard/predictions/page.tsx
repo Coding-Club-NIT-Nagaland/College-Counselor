@@ -91,7 +91,7 @@ export default function PredictionsPage() {
             </p>
             <p className="mt-2 text-3xl font-bold text-slate-900">78%</p>
             <p className="mt-2 text-sm text-slate-600">
-              Higher than 2022-24 averages for 4 programs you're targeting.
+              Higher than 2022-24 averages for 4 programs you&apos;re targeting.
             </p>
           </div>
           <div className="rounded-2xl border border-slate-200 p-4">

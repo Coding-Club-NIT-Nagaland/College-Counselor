@@ -63,7 +63,7 @@ export default function MentorOverviewPage() {
           <CardContent className="space-y-4">
             {pendingRequests.length === 0 ? (
               <p className="text-sm text-slate-600">
-                You're all caught up. New requests will appear here.
+                You&apos;re all caught up. New requests will appear here.
               </p>
             ) : (
               pendingRequests.map((request) => (

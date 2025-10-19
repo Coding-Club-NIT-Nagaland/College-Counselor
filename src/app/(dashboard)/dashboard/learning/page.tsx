@@ -134,7 +134,7 @@ export default function LearningPage() {
           <div className="rounded-2xl border border-slate-200 p-4">
             <p className="text-3xl font-bold text-slate-900">14-day streak 🔥</p>
             <p className="mt-2 text-sm text-slate-600">
-              Complete today's quiz to extend your streak and unlock a bonus mentor AMA slot.
+              Complete today&apos;s quiz to extend your streak and unlock a bonus mentor AMA slot.
             </p>
             <button className="mt-4 rounded-lg bg-blue-600 px-4 py-2 text-xs font-semibold text-white">
               Complete daily task

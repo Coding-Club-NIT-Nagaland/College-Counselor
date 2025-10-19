@@ -18,7 +18,7 @@ export default function CareersPage() {
         <section className="space-y-4 rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
           <h2 className="text-2xl font-semibold text-slate-900">Our values</h2>
           <ul className="space-y-3 text-sm text-slate-600">
-            <li>• Empathy for every student's journey.</li>
+            <li>• Empathy for every student&apos;s journey.</li>
             <li>• Data transparency and responsible AI.</li>
             <li>• Bias-free mentorship and inclusive communities.</li>
             <li>• Rapid iteration with student, mentor, and parent feedback.</li>
