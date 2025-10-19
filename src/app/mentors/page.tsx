@@ -54,7 +54,7 @@ export default function MentorsPage() {
                 View mentors
               </a>
               <a
-                href="/auth/signup"
+                href="/auth/register"
                 className="inline-flex items-center justify-center rounded-xl border border-slate-200 px-5 py-3 text-sm font-semibold text-slate-900 transition hover:bg-slate-50"
               >
                 Become a mentor
